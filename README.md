@@ -188,7 +188,14 @@ Log in as an employer, review applicants for a job, update statuses, then switch
 
 ### Demo Video Clip
 
-[▶ Watch JOB_PORTAL_DEMO](assets/JOB_PORTAL_DEMO.mp4)
+To view the complete walkthrough of the JobConnect platform, including applicant flow, employer review, notifications, and dashboards, click the link below:
+
+🔗 **Watch Demo Video:**  
+https://drive.google.com/file/d/1JfbqqAZtrnqwE1LBq7AssZgPIHPCjWcx/view?usp=drive_link  
+
+---
+
+
 
 
 ---
