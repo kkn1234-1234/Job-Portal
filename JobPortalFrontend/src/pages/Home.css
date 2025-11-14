@@ -1,0 +1,39 @@
+.home-bg {
+  background: url("/public/assets/hero-bg.jpg") center/cover no-repeat;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.hero-content {
+  text-align: center;
+  color: white;
+  margin-top: 80px;
+}
+
+.hero-content h1 {
+  font-size: 55px;
+  font-weight: bold;
+}
+
+.hero-content p {
+  margin: 15px 0 30px;
+  font-size: 20px;
+}
+
+.hero-btn {
+  padding: 14px 32px;
+  background: #2563eb;
+  border-radius: 8px;
+  color: white;
+  font-size: 18px;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.hero-btn:hover {
+  background: #1e4fc4;
+}
